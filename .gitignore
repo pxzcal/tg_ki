@@ -1,0 +1,25 @@
+# Kursmaterial
+/Vorbereitung/
+/Vorlesungen/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Backups und Temporäres
+*.bak
+*.tmp
+~$*
+.~lock.*
